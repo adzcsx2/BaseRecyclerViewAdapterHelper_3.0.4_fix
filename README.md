@@ -1,1 +1,2 @@
 # BaseRecyclerViewAdapterHelper_3.0.4_fix
+修复空数据时setNewInstance或setList时，notifySetChanged造成性能降低
