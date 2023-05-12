@@ -1,0 +1,1 @@
+# BaseRecyclerViewAdapterHelper_3.0.4_fix
